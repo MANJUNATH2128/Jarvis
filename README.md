@@ -11,7 +11,7 @@ This Program is built completely using the python<br>
 *Can find meaning of any word<br>
 *Can interact with You(Basic Interaction)<br>
 <h3>Requirements:</h3>
-Make sure you Install python packages before running the program by entering the command
+Make sure you Install python packages before running the program by entering the given command below
 <h5>Speech Recognition</h5>
  pip install SpeechRecognition
 <h5>PyAudio is required for microphone input</h5>
@@ -19,4 +19,7 @@ Make sure you Install python packages before running the program by entering the
 <h5>gTTS: (Google Text to Speech service)</h5>
  pip install gTTS
 <h5>To get meaning of a word by searching close matches</h5>
- pip install difflib
+ pip install difflib<br>
+ <h4>After installing all the packages you are ready to run the program main.py</h4>
+ 
+ 
