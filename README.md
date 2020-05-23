@@ -1,2 +1,2 @@
 # Jarvis
-![](J.A.R.V.I.S..jpg)
+<img src="J.A.R.V.I.S..jpg" width="100">
